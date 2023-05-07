@@ -1,0 +1,1 @@
+Example project for the [Rui](https://github.com/spxbhuhb/rui) compiler plugin.
