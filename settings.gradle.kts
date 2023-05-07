@@ -4,13 +4,6 @@
 rootProject.name = "rui-example"
 
 pluginManagement {
-    resolutionStrategy {
-        eachPlugin {
-            if (requested.id.id == "hu.simplexion.rui") {
-                useModule("hu.simplexion.rui:rui-gradle-plugin:0.1.0")
-            }
-        }
-    }
     repositories {
         google()
         gradlePluginPortal()
